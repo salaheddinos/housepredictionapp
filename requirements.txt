@@ -1,5 +1,5 @@
 ###### Requirements without Version Specifiers ######
 streamlit
 pandas
-matplotlib.pyplot
+
 sklearn.ensemble

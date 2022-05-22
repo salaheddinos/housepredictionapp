@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import time
-import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
