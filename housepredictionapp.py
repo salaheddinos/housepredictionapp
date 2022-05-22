@@ -15,6 +15,8 @@ bien dans plusieurs villes du Maroc.
 **NB**: *Cette application n'a aucune fin commerciale et a été développée à des fins pédagogiques seulement. On prétend nullement à travers cette dernière de pouvoir donner des éstimations d'une grande fiabilité vu la petite taille de l'échantillon (4064). Toutefois, l'algorithme nous permet de prédire sur le test set (Données non consultées par le modèle) à hauteur des 75'%' de fiabilité avec une Cross Validation de 10.*
 
 **Pour une meilleur visualisation des données, un dashboard consultable de préférence sur un ordinateur est disponible sur ce [lien](https://public.tableau.com/app/profile/salah7781/viz/Analyse_March_Immobilier_MAROC/Dashboard1)**
+
+**GitHub (Source Code):** [lien](https://github.com/salaheddinos/housepredictionapp)
 """)
 st.write('---')
 
