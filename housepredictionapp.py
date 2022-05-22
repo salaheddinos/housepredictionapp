@@ -19,7 +19,7 @@ bien dans plusieurs villes du Maroc.
 st.write('---')
 
 # Load dataset
-dataset = pd.read_csv("C:/Users/hp/housepredictionapp/DATA.csv")
+dataset = pd.read_csv("./DATA.csv")
 # Set X and y
 X = dataset.drop(["Unnamed: 0", "Prix", "Prix / m²"], axis=1)
 X_copy = X
