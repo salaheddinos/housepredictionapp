@@ -1,4 +1,12 @@
-﻿# streamlit-realestateapp
-Cette application mine les données sur les sites d'annonces et prédit en utilisant le Machine Learning le prix d'une maison ou appartement en se basant sur les charactéristiques propore à chanque bien dans plusieurs villes du Maroc.
+﻿# streamlit-realestateapp 
+NO COMMERCIAL USE___________NO PRIVATE DATA WAS SHARED ___ All DATA IS PUBLICALLY AVAILABLE ON MAJOR MOROCCAN LISTING WEBSITES
+******************Key tasks achieved ****************:
 
-NB: Cette application n'a aucune fin commerciale et a été développée à des fins pédagogiques seulement. On prétend nullement à travers cette dernière de pouvoir donner des éstimations d'une grande fiabilité vu la petite taille de l'échantillon (4064). Toutefois, l'algorithme nous permet de prédire sur le test set (Données non consultées par le modèle) à hauteur des 75'%' de fiabilité avec une Cross Validation de 10.
+High volume Webscraping with Python libraries such as BeautifullSoup, Requests and Proxy rotation to avoid IP banning
+Data pooled then processed and stored in Database
+Data cleaning and feature engineering
+Deep Exploratory Data Analysis using libraires such as Matplotlib, seaborn and plotly 
+Creation of a dashboard on Tableau showcasing key KPIs
+Implementation of a Machine Learning Model (RandomForrestRegressor) on data collected
+Model gives an Accuracy Score R2 of 96 on training set and 75 % on Cross Validated Test Sets
+Deployment of a Streamlit web app where the user can enter the features of the real estate he/she wants and then get a data driven estimate about the selling price
