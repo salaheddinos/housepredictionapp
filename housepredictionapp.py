@@ -16,7 +16,7 @@ bien dans plusieurs villes du Maroc.
 
 **Pour une meilleur visualisation des données, un dashboard consultable de préférence sur un ordinateur est disponible sur ce [lien](https://public.tableau.com/app/profile/salah7781/viz/Analyse_March_Immobilier_MAROC/Dashboard1)**
 
-**GitHub (Source Code):** [lien](https://github.com/salaheddinos/housepredictionapp)
+**GitHub:** [(Source Code)](https://github.com/salaheddinos/housepredictionapp)
 """)
 st.write('---')
 
