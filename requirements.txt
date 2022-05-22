@@ -2,4 +2,4 @@
 streamlit
 pandas
 
-sklearn.ensemble
+sklearn.ensemble == 0.22.0
